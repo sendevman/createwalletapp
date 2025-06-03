@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "MyWalletApp",
+    "slug": "my-wallet-app",
+    "version": "1.0.0",
+    "ios": {
+      "bundleIdentifier": "com.mycompany.walletapp",
+      "buildNumber": "1",
+      "supportsTablet": true
+    }
+  }
+}
